@@ -1,7 +1,3 @@
-# 📋 Test Case Dokumentasi
-
-Ini adalah dokumentasi untuk test case dari aplikasi Swag Labs.
-
 ## 🔗 Link Spreadsheet Test Case
 
 Klik link di bawah ini untuk melihat test case lengkap:
